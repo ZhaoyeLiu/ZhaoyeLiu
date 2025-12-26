@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Zhaoye%20Liu&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ======= Typing Title ======= -->
+<!-- ======= Subtitle ======= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;LLM+Applications+%26+Workflow+Builder;Python+%7C+ML+%7C+Backend+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=999999&color=00E5FF&center=true&vCenter=true&width=500&lines=Data+%7C+AI+%7C+Software" />
 </p>
 
 ---
