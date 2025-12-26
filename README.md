@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Hunter
 
-<!--
-**ZhaoyeLiu/ZhaoyeLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data / AI / Software  
+💻 Python | Machine Learning | LLM | Web
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- Interested in AI & data-driven systems
+- Enjoy building tools and workflows
+- Currently learning and experimenting with LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python, JavaScript
+- PyTorch, scikit-learn
+- SQL, Git, Docker
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true)
+
+## 📫 Contact
+- Email: your@email.com
