@@ -44,7 +44,7 @@
 ---
 
 ### ⚙️ Engineering
-![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazonaws&logoColor=00E5FF)
+![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazon-aws&logoColor=00E5FF)
 ![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=00E5FF)
 ![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00E5FF)
 ![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00E5FF)
